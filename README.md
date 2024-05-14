@@ -1,2 +1,1 @@
-# XAI_study
-"XAI 설명 가능한 인공지능, 인공지능을 해부하다" 책을 통한 스터디
+# TODAY I LEAREND 
